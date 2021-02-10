@@ -74,6 +74,8 @@ You can find usage examples of the controls available in WinUI in the Xaml Contr
  which can also be installed from the Windows Store:  
  https://www.microsoft.com/p/xaml-controls-gallery/9msvh128x2zt
  
+ # Vivek Sharma
+ 
  ## API spec discussions
 
 Before new features are added to WinUI, we always perform a thorough API review and spec discussion. This can range from a single new API to an entire new control featuring dozens of new APIs. Joining such a spec discussion is a great opportunity for developers to help ensuring that new WinUI APIs will look and feel natural. In addition, spec discussions are the follow-up to feature proposals and will go into much finer details than the initial proposal. As such, taking part in these discussions gives developers the chance to be involved in the complete development process of new WinUI features - from their initial high-level inception right down to specific implementation/behavior details.
